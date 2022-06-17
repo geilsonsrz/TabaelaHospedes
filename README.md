@@ -10,8 +10,8 @@ Planejamento do projeto: <br/>
 4 – Captura dos dados;<br/>
 5 – Criação de uma planilha padronizada.<br/>
 
-Como o programa funciona:
-Ao ser identificado o arquivo no formato “xlsx”, o script captura todos os dados conforme indicado pelos títulos das colunas. Em cada linha, os dados capturados das respectivas colunas são feitos os seguintes ajustes: substituição dos caracteres especiais e capitalização dos textos, exceto o tipo de cama. Os dados de cada linha são incrementados em um arquivo “json”, o arquivo é iniciado assim que o script é executado.
+Como o programa funciona:<br/>
+Ao ser identificado o arquivo no formato “xlsx”, o script captura todos os dados conforme indicado pelos títulos das colunas. Em cada linha, os dados capturados das respectivas colunas são feitos os seguintes ajustes: substituição dos caracteres especiais e capitalização dos textos, exceto o tipo de cama. Os dados de cada linha são incrementados em um arquivo “json”, o arquivo é iniciado assim que o script é executado.<br/>
 Ao ter todos os dados devidamente formatados no arquivo “json”, é criado um novo arquivo “xlsx” no formato padronizado que o sistema do hotel recebe.
 
 Como utilizar:<br/>
